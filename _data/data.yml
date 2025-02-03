@@ -12,17 +12,17 @@ sidebar:
     linkedin: jiayao-zoe-zhang
     github: Furiosah
 
-    # interests:
-    #   - item: Hiking
-    #     link:
-    #   - item: Traveling
-    #     link: https://www.google.com/maps/d/u/0/edit?mid=17LNQyXGDYA2TEIECT1Jg5Vr1IyIMQ4cj&usp=sharing
+    interests:
+      - item: Jigsaw puzzle🧩
+        link:
+      - item: Cats🐈
+        link: 
 
 career-profile:
     title: About Me
     summary: |
-      Hi, I’m Jiayao (Zoe) Zhang, a passionate backend developer with over 3 years of experience specializing in Java development, system design, and automated testing. I currently work at Citigroup, contributing to large-scale backend systems and driving innovation in risk analysis and business-critical applications.
-      I graduated from McGill University with a degree in Cognitive Science, focusing on Computer Science. Please feel free to find my resume [here](../assets/images/jiayao_resume.pdf).
+      Hi, I’m Jiayao Zhang. I'm a passionate backend developer with over 3 years of experience in Java development, system design, and automated testing. I currently work at Citigroup, contributing to risk management systems and driving innovation in data analysis and internal tools.
+      I graduated from McGill University with a degree in Cognitive Science, focusing on Computer Science and Linguistics stream. Please feel free to find my resume [here](../assets/images/jiayao_resume.pdf).
 
 education:
     - degree: B.A./B.Sc. in Cognitive Science (Computer Science Stream)
@@ -39,9 +39,7 @@ experiences:
       logo: "../assets/images/citigroup_logo.png"
       company: Citigroup
       details: |
-        Designed and developed an internal web application to assess operational risk capital adequacy using Spring Boot, Oracle, and Angular.
-        Led 6 major feature releases and over 30 minor enhancements, optimizing system adaptability and data integration.
-        Improved data accuracy and system scalability by integrating a golden source for legal entity data and creating advanced data visualization tools using Apache POI.
+        Designed and implemented a microservices-based risk management web application, integrating Monte Carlo simulation models for loss prediction and capital reserve evaluation.
 
     - role: Backend Developer
       time: Jul. 2021 - Jun. 2022
@@ -49,22 +47,20 @@ experiences:
       company: Citigroup
       details: |
         Developed a web application to analyze financial news and generate word clouds using Spring Boot and Python.
-        Actively contributed to the design of work-from-home management systems and developed tools to automate the email management process.
 
     - role: English Linguistics Summer Intern
       time: May. 2020 - Nov. 2020
       logo: "../assets/images/tiktok2.png"
       company: ByteDance
       details: |
-        Collaborated with MLEs to improve English pronunciation scoring models for second-language learners, resulting in a 20% improvement in model accuracy and a 30% increase in user satisfaction.
+        Collaborated with MLEs to improve English pronunciation scoring models for second-language learners.
 
     - role: Web Development Summer Intern
       time: Jun. 2018 - Jul. 2018
       logo: "../assets/images/panpass_logo.png"
       company: PanPass Information Technology Co., Ltd.
       details: |
-        Assisted with backend development for the Sinopec website using Spring Boot.
-        Contributed to the transition from manual testing to automated testing, improving efficiency and reliability.
+        Contributed to the transition from manual testing to automated testing.
 
 footer: >
-    <p>"Driving innovation in backend systems and making an impact through technology."</p>
+    <p>"An engineer who loves cats and solving problems."</p>
