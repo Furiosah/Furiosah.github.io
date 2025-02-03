@@ -4,7 +4,7 @@ sidebar:
 
     # Profile information
     name: Jiayao (Zoe) Zhang
-    tagline: Backend Software Developer with a passion for system design and problem solving
+    tagline: An engineer who loves cats and solving problems.
     avatar: jiayao.png  # place a 100x100 picture inside /assets/images/ folder
 
     # Sidebar links
@@ -39,7 +39,7 @@ experiences:
       logo: "../assets/images/citigroup_logo.png"
       company: Citigroup
       details: |
-        Designed and implemented a microservices-based risk management web application, integrating Monte Carlo simulation models for loss prediction and capital reserve evaluation.
+        Designed and developed a microservices-based risk management web application, integrating Monte Carlo models for loss prediction and capital reserve evaluation.
 
     - role: Backend Developer
       time: Jul. 2021 - Jun. 2022
