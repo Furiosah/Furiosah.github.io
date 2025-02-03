@@ -12,11 +12,11 @@ sidebar:
     linkedin: jiayao-zoe-zhang
     github: jiayao-zoe-zhang
 
-    interests:
-      - item: Hiking
-        link:
-      - item: Traveling
-        link: https://www.google.com/maps/d/u/0/edit?mid=17LNQyXGDYA2TEIECT1Jg5Vr1IyIMQ4cj&usp=sharing
+    # interests:
+    #   - item: Hiking
+    #     link:
+    #   - item: Traveling
+    #     link: https://www.google.com/maps/d/u/0/edit?mid=17LNQyXGDYA2TEIECT1Jg5Vr1IyIMQ4cj&usp=sharing
 
 career-profile:
     title: About Me
