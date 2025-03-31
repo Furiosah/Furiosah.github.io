@@ -37,30 +37,30 @@ experiences:
     - role: Backend Developer
       time: Jul. 2022 - Jan. 2025
       logo: "../assets/images/citigroup_logo.png"
-      company: Citigroup
+      company: Citi
       details: |
         Designed and developed a microservices-based risk management web application, integrating Monte Carlo models for loss prediction and capital reserve evaluation.
 
     - role: Backend Developer
       time: Jul. 2021 - Jun. 2022
       logo: "../assets/images/citigroup_logo.png"
-      company: Citigroup
+      company: Citi
       details: |
         Developed a web application to analyze financial news and generate word clouds using Spring Boot and Python.
 
     - role: English Linguistics Summer Intern
       time: May. 2020 - Nov. 2020
       logo: "../assets/images/tiktok2.png"
-      company: ByteDance
+      company: Tiktok
       details: |
-        Collaborated with MLEs to improve English pronunciation scoring models for second-language learners.
+        Processed data using Python for NLP models (1TB/day), and developed an automated data annotation platform.
 
     - role: Web Development Summer Intern
-      time: Jun. 2018 - Jul. 2018
+      time: Jun. 2018 - Sept. 2018
       logo: "../assets/images/panpass_logo.png"
       company: PanPass Information Technology Co., Ltd.
       details: |
-        Contributed to the transition from manual testing to automated testing.
+        Developed a RESTful online order management web application using Spring Boot and MySQL.
 
 footer: >
     <p>"An engineer who loves cats and solving problems."</p>
