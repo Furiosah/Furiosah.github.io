@@ -34,21 +34,21 @@ education:
         Minor in Linguistics
 
 experiences:
-    - role: Backend Developer
+    - role: SDE 2
       time: Jul. 2022 - Jan. 2025
       logo: "../assets/images/citigroup_logo.png"
       company: Citi
       details: |
         Designed and developed a microservices-based risk management web application, integrating Monte Carlo models for loss prediction and capital reserve evaluation.
 
-    - role: Backend Developer
+    - role: SDE 1
       time: Jul. 2021 - Jun. 2022
       logo: "../assets/images/citigroup_logo.png"
       company: Citi
       details: |
         Developed a web application to analyze financial news and generate word clouds using Spring Boot and Python.
 
-    - role: English Linguistics Summer Intern
+    - role: SDE Intern
       time: May. 2020 - Nov. 2020
       logo: "../assets/images/tiktok2.png"
       company: Tiktok
